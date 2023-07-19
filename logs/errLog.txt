@@ -1,0 +1,11 @@
+20230715	19:06:05	a0f79c00-830c-4b4c-bc5a-ed5b89d753ed	Error: Not allowed by CORS
+20230717	12:35:55	3c4a1934-cc50-445d-97ca-f24848500ed7	ReferenceError: path is not defined
+20230717	12:36:03	09eaeb93-1976-440c-ac29-73f16b589afa	ReferenceError: path is not defined
+20230717	12:37:41	c0c42ea6-553f-4add-be1c-f3f5c1445214	ReferenceError: path is not defined
+20230717	13:07:00	1bc45a21-e457-4eef-9762-f31b2d8c768b	SyntaxError: Unexpected token , in JSON at position 7
+20230718	12:14:48	0c02b5bc-b66a-494b-8edb-4a536a5fe881	SyntaxError: Unexpected token e in JSON at position 0
+20230719	10:12:44	e1dd048f-b3b3-49cb-a292-4686705617cd	TypeError: Cannot read properties of undefined (reading 'username')
+20230719	10:13:58	892ff344-6f8c-4848-81cb-a40d588cdf81	TypeError: Cannot read properties of undefined (reading 'username')
+20230719	10:14:58	41d10268-3233-4987-bcb7-c6168486fd8f	TypeError: Cannot read properties of undefined (reading 'username')
+20230719	10:17:43	c3075bc4-718a-426e-b64a-8e857c0388a4	ReferenceError: decoded is not defined
+20230719	10:18:31	df2f54e0-a04d-4f5b-b7de-d23369be81bb	TypeError: Cannot read properties of undefined (reading 'username')

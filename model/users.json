@@ -1,0 +1,20 @@
+[
+  {
+    "username": "John",
+    "roles": { "User": 2001, "Editor": 1984, "Admin": 5150 },
+    "password": "$2b$10$j4UEx.YnpLqZWOsCohoZo.reV2nAbMCw5pjniDEP5m2wG9aEMD3WW",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlBob2VuaXgiLCJpYXQiOjE2ODk3MzkwMTIsImV4cCI6MTY4OTgyNTQxMn0.DpGtH1HsLJAVT1NezeG2OVTEYA4F9Rm56eqZ3QDKIKg"
+  },
+  {
+    "username": "Kumar",
+    "roles": { "User": 2001, "Editor": 1984 },
+    "password": "$2b$10$7DNJ894QbDDU3BN/HXGQJesVog43TwY25IgAQzozKkJLiy09YZbEG",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlBob2VuaXgzIiwiaWF0IjoxNjg5NzQxODIxLCJleHAiOjE2ODk4MjgyMjF9.V7awtanhUMvyqdpH-dg-ehY2EUR6MR9twsQnn_VpphY"
+  },
+  {
+    "username": "Phoenix",
+    "roles": { "User": 2001 },
+    "password": "$2b$10$NHGA2.NffXa4eWkdyMKewufak4i6fDETVGHcezZnHcU3w54sgG.oy",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlBob2VuaXgyIiwiaWF0IjoxNjg5NzQyMTgyLCJleHAiOjE2ODk4Mjg1ODJ9._JJ9TDeKBaYRuRqVmAYxPJ9u9io-smDAnXVcxLTMmxA"
+  }
+]
